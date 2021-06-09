@@ -1,0 +1,13 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+
+# --- НОВОЕ -------
+# Virtual environment - пусть будет в архиве.
+#venv
+
+# --- БЫЛО РАНЬШЕ -------
+/bower_components/
+/node_modules/
+*.rtf
+#*.doc
