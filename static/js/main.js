@@ -169,7 +169,6 @@ $("document").ready(function () {
         }
     }); // --- Конец click
   
-  
 
 }); // -- Конец $("document").ready(function ()
 

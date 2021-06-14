@@ -1,3 +1,10 @@
+- Дать команду локальному репозиторию не изменять окончание строки,
+      чтобы не появлялось такое сообщение при команде git add .   LF will be replaced by CRLF in js/highlight.pack.js.
+        проверка, что установлено, команда: git config --local core.autocrlf ,  ответ: пустая строка.
+        установка запрета смены конца строки, команда : git config --local core.autocrlf false
+        снова проверка, что установлено, команда : git config --local core.autocrlf,  ответ: false
+
+
 1. Этот проект начал 09.06.2021
 2. Проект является веткой проекта в D:\OPENSERVER\OSPanel\domains\postgres2021
 

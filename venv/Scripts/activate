@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\OPENSERVER\OSPanel\domains\postgres2021\venv"
+VIRTUAL_ENV="D:\FLASKM\postgres21flask\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
