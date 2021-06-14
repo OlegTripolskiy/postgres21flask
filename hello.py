@@ -7,8 +7,8 @@ app = Flask(__name__)	# Создаем новое web-приложение
  	    # Иначе Flask не знает где искать шаблоны, статистические файлы и т.д.
 @app.route("/")
 def index():
-    return "Hello, world!"
-#    return render_template("index.html")
+#    return "Hello, world!"
+    return render_template("index.html")
 
 @app.route("/layout.html")
 def layout():

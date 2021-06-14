@@ -4,7 +4,7 @@
 
 # --- НОВОЕ -------
 # Virtual environment - пусть будет в архиве.
-venv
+#venv
 
 # --- БЫЛО РАНЬШЕ -------
 /bower_components/
